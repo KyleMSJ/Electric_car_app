@@ -11,6 +11,9 @@
     <string name="km_percorrido">Km Percorrido</string>
     <string name="calcular">Calcular</string>
     <string name="minha_segunda_activity">Minha segunda activity</string>
+    <string name="calcular_autonomia">Calcular Autonomia</string>
+    <string name="car_fragment">CarFragment</string>
+    <string name="favorite_fragment">FavoriteFragment</string>
     <string-array name="array_cidades">
         <item>Araraquara</item>
         <item>Taquaritinga</item>
